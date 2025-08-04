@@ -26,7 +26,7 @@ const Footer = () => {
         {/* -----Right Section ------*/}
         <div>
             <p className='text-xl font-medium mb-5'>GET IN TOUCH</p>
-            <ul className='text-xl font-medium mb-5'>
+            <ul className='flex flex-col gap-2 text-gray-600'>
                 <li>+91 9845664587</li>
                 <li>prescripto@gmail.com</li>
             </ul>
